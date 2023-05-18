@@ -8,20 +8,23 @@ ul{
 }
 .wrap .section:nth-child(1){background: url(images/main.png) top/cover;}
 .wrap .section:nth-child(2){background: url(images/port1.jpg) top/cover;}
-.wrap .section:nth-child(3){background: url(images/commokup1.jpg) center/cover;}
-.wrap .section:nth-child(4){background: url(images/commokup2.jpg) center/cover;}
-.wrap .section:nth-child(5){background: url(images/insta.jpg) top/cover;}
-.wrap .section:nth-child(6){background: url(images/jojoba01.jpg) top/cover;}
-.wrap .section:nth-child(7){background: url(images/jojoba02.jpg) top/cover;}
-.wrap .section:nth-child(8){background: url(images/jojoba03.jpg) top/cover;}
-.wrap .section:nth-child(9){background: url(images/jojoba04.jpg) top/cover;}
-.wrap .section:nth-child(10){background: url(images/donuts01.jpg) top/cover;}
-.wrap .section:nth-child(11){background: url(images/donuts02.jpg) top/cover;}
-.wrap .section:nth-child(12){background: url(images/donuts03.jpg) no-repeat;background-size: 70%; background-position: center;}
-.wrap .section:nth-child(13){background: url(images/linen01.jpg) top/cover;}
-.wrap .section:nth-child(14){background: url(images/linen02.jpg) top/cover;}
-.wrap .section:nth-child(15){background: url(images/linen03.jpg) top/cover;}
-.wrap .section:nth-child(16){background: url(images/pone1.jpg) top/cover;}
+.wrap .section:nth-child(3){background: url(images/commokup1.jpg) no-repeat;background-size: 80%; background-position: center;}
+.wrap .section:nth-child(4){background: url(images/commokup2.jpg) no-repeat;background-size: 80%; background-position: center;}
+.wrap .section:nth-child(5){background: url(images/pone1.jpg) no-repeat;background-size: 90%; background-position: center;}
+.wrap .section:nth-child(6){background: url(images/insta.jpg) top/cover;}
+.wrap .section:nth-child(7){background: url(images/line.jpg) no-repeat;background-size: 90%; background-position: center;}
+.wrap .section:nth-child(8){background: url(images/jojoba01.jpg) top/cover;}
+.wrap .section:nth-child(9){background: url(images/jojoba02.jpg) top/cover;}
+.wrap .section:nth-child(10){background: url(images/jojoba03.jpg) top/cover;}
+.wrap .section:nth-child(11){background: url(images/jojoba04.jpg) top/cover;}
+.wrap .section:nth-child(12){background: url(images/donuts01.jpg) top/cover;}
+.wrap .section:nth-child(13){background: url(images/donuts02.jpg) top/cover;}
+.wrap .section:nth-child(14){background: url(images/donuts03.jpg) no-repeat;background-size: 70%; background-position: center;}
+.wrap .section:nth-child(15){background: url(images/linen01.jpg) top/cover;}
+.wrap .section:nth-child(16){background: url(images/linen02.jpg) top/cover;}
+.wrap .section:nth-child(17){background: url(images/linen03.jpg) no-repeat;background-size: 90%; background-position: center;}
+
+
 
 
 .gnb{
